@@ -1,0 +1,34 @@
+html{
+    scroll-behavior: smooth;
+}
+html ::-webkit-scrollbar{
+    display:none;
+}
+body {
+    background-color: FFF78A; /* Replace with your preferred color code or name */
+}
+#main-nav{
+    background-color: transparent;
+}
+section{
+    height:100vh;
+}
+#home{
+    background: url("/images/img1.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custom-col{
+    margin-top: 25%;
+}
+.custom-btn {
+    color: #533c5d;
+}
+.custom-text-color {
+    color: #dc92d2;
+}
+i{
+    color:black;
+
+}
