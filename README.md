@@ -1,5 +1,5 @@
 Harshitha Kasarapu - Portfolio
-🚀 Live Demo: strong-salmiakki-303342.netlify.app
+🚀 Live Demo:  https://strong-salmiakki-303342.netlify.app/
 
 About the Portfolio
 This is my personal portfolio website, showcasing my skills, projects, certifications, and achievements in Artificial Intelligence, Machine Learning, Web Development, and Cybersecurity. It serves as a comprehensive overview of my technical expertise, experience, and contributions to various domains.
